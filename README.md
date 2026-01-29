@@ -1,5 +1,9 @@
 # 💫 About Me:
-Étudiant à Epitech, actuellement en 3ᵉ année.<br>Je fais principalement du développement web, avec une bonne base en C++ acquise à travers différents projets.<br><br>Intéressé par les systèmes, l’algorithmique et les projets concrets, je suis actuellement à la recherche d’une opportunité professionnelle (stage ) pour continuer à progresser et mettre mes compétences en pratique.
+Epitech student, currently in my 3rd year.
+I mainly work in web development, with a solid background in C++ gained through various projects.
+
+Interested in systems, algorithms, and building real-world projects.
+Currently looking for a job / internship opportunity to keep improving my skills and gain professional experience.
 
 
 ## 🌐 Socials:
